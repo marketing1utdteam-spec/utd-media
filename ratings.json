@@ -1,0 +1,91 @@
+{
+ "generatedAt": "2026-09-02T17:37:51+0200",
+ "source": "https://themes.shopify.com — офіційний Shopify Theme Store",
+ "note": "Публічні дані зі сторінок тем в офіційному Shopify Theme Store: відсоток схвальних відгуків, кількість відгуків, ціна. Стор НЕ має оцінки в зірочках, тому ratingValue це відсоток, а bestRating=100. Оновлюється автоматично раз на добу. Поле stale=true означає, що цього разу зняти не вдалось і показано попереднє значення.",
+ "themes": [
+  {
+   "slug": "gain",
+   "page": "/shopify-themes/gain/",
+   "storeUrl": "https://themes.shopify.com/themes/gain",
+   "reviewsUrl": "https://themes.shopify.com/themes/gain/presets/gain/reviews",
+   "ratingValue": 91,
+   "bestRating": 100,
+   "worstRating": 0,
+   "reviewCount": 81,
+   "percentPositive": 91,
+   "price": 100.0,
+   "priceCurrency": "USD",
+   "checked": "2026-09-02"
+  },
+  {
+   "slug": "ultra",
+   "page": "/shopify-themes/ultra-theme/",
+   "storeUrl": "https://themes.shopify.com/themes/ultra",
+   "reviewsUrl": "https://themes.shopify.com/themes/ultra/presets/ultra/reviews",
+   "ratingValue": 94,
+   "bestRating": 100,
+   "worstRating": 0,
+   "reviewCount": 32,
+   "percentPositive": 94,
+   "price": 100.0,
+   "priceCurrency": "USD",
+   "checked": "2026-09-02"
+  },
+  {
+   "slug": "allure",
+   "page": "/shopify-themes/allure/",
+   "storeUrl": "https://themes.shopify.com/themes/allure",
+   "reviewsUrl": "https://themes.shopify.com/themes/allure/presets/allure/reviews",
+   "ratingValue": 89,
+   "bestRating": 100,
+   "worstRating": 0,
+   "reviewCount": 27,
+   "percentPositive": 89,
+   "price": 100.0,
+   "priceCurrency": "USD",
+   "checked": "2026-09-02"
+  },
+  {
+   "slug": "boutique",
+   "page": "/shopify-themes/boutique/",
+   "storeUrl": "https://themes.shopify.com/themes/boutique",
+   "reviewsUrl": "https://themes.shopify.com/themes/boutique/presets/boutique/reviews",
+   "ratingValue": 100,
+   "bestRating": 100,
+   "worstRating": 0,
+   "reviewCount": 24,
+   "percentPositive": 100,
+   "price": 160.0,
+   "priceCurrency": "USD",
+   "checked": "2026-09-02"
+  },
+  {
+   "slug": "victory",
+   "page": "/shopify-themes/victory/",
+   "storeUrl": "https://themes.shopify.com/themes/victory",
+   "reviewsUrl": "https://themes.shopify.com/themes/victory/presets/victory/reviews",
+   "ratingValue": 100,
+   "bestRating": 100,
+   "worstRating": 0,
+   "reviewCount": 10,
+   "percentPositive": 100,
+   "price": 320.0,
+   "priceCurrency": "USD",
+   "checked": "2026-09-02"
+  },
+  {
+   "slug": "impression",
+   "page": "/shopify-themes/impression/",
+   "storeUrl": "https://themes.shopify.com/themes/impression",
+   "reviewsUrl": "https://themes.shopify.com/themes/impression/presets/impression/reviews",
+   "ratingValue": 100,
+   "bestRating": 100,
+   "worstRating": 0,
+   "reviewCount": 8,
+   "percentPositive": 100,
+   "price": 340.0,
+   "priceCurrency": "USD",
+   "checked": "2026-09-02"
+  }
+ ]
+}
